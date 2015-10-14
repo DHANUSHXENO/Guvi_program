@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int maim()
+int main()
 {
   int n;
   printf("\n*** Check Even or Odd of given number ***");
