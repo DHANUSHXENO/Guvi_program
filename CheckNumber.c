@@ -8,15 +8,15 @@ int main()
   scanf("%lf",&n);
   if(n>0)
   {
-    printf("\n %d is Positive Number",n);
+    printf("\n %lf is Positive Number",n);
   }
   else if(n<0)
   {
-    printf("\n %d is Negative Number",n);
+    printf("\n %lf is Negative Number",n);
   }
   else
   {
-    printf("\n %d is Zero Number",n);
+    printf("\n %lf is Zero Number",n);
   }
 return 0;
 }
